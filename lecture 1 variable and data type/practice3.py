@@ -1,4 +1,5 @@
 #wap to find the simple interest 
+
 p=int(input("enter the principle :"))
 r=int(input("enter the interest rate :"))
 t=int(input("enter the time :"))

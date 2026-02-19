@@ -1,3 +1,4 @@
+#   Find the largest of three numbers
 a=int(input("enter the number  "))
 b=int(input("enter the number  "))
 c=int(input("enter the number  "))
@@ -7,3 +8,4 @@ elif b>a and b>c:
     print("the greatest number is ",b)
 else:    
     print("the greatest number is ",c) 
+    

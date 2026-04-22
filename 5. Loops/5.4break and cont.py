@@ -8,7 +8,7 @@ while(i<10):
     print(i)
     i+=1
 
-#break:used to terminate the loop when encountered.
+# break:used to terminate the loop when encountered.
 i=1
 while(i<5):
     print(i)
